@@ -1,2 +1,2 @@
 # Java_Programmers
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+Programmers 문제 풀이를 하며 Java 숙련도 향상 및 코딩테스트 공부
