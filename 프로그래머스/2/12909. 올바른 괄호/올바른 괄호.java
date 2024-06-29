@@ -10,8 +10,11 @@ class Solution {
             if (c == '(') {
                 stack.push(c);
             } else {
-                if (stack.isEmpty() || stack.pop() != '(')
+                if (stack.isEmpty()) {
                     return false;
+                } else {
+                    stack.pop();
+                }
             }
         }
         
